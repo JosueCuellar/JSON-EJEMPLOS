@@ -1,0 +1,48 @@
+{
+  "documento": {
+    "tipo_dte": "09",
+    "establecimiento": "0001",
+    "condicion_pago": 1,
+    "numero_control": null,
+    "punto_venta": null,
+    "porcentaje_descuento": null,
+    "renta_retenida": null,
+    "retener_iva": null,
+    "numero_pago_electronico": null,
+    "tipo_contingencia": null,
+    "motivo_contingencia": null,
+    "receptor": {
+      "numero_documento": "06141106141147",
+      "nombre": "Josue Cruz",
+      "nrc": "1234",
+      "codigo_actividad": "62020",
+			"tipo_establecimiento" : "02",
+      "direccion": {
+        "departamento": "06",
+        "municipio": "14",
+        "complemento": "Calle prueba"
+      },
+      "telefono": "72357079",
+      "correo": "prueba@prueba.com",
+      "correo_cc": null
+    },
+    "items": {
+      "inicio": "20-06-2024",
+      "fin": "20-07-2024",
+      "monto": 1,
+      "codigo": "Producto 1",
+      "cantidad_documentos": 10.0,
+      "monto_sin_percepcion": null,
+      "descripcion_sin_percepcion": "1",
+      "numero_documento": null,
+      "comision": 1000.0,
+      "porcentaje_comision": null,
+      "observaciones": null
+    },
+    "extension": {
+      "nombre_entrega": "Josue Ernesto Cruz Cuellar",
+      "documento_entrega": "061066865",
+      "codigo_empleado": null
+    }
+  }
+}
